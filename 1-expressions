@@ -1,0 +1,4 @@
+-- "squid" ++ "clam" -> Char ou String
+-- [True, False, True, True] -> Lista de Bool
+-- [True, False, 'a'] -> Erro de Tipo
+-- (True, False, 'a') -> Tupla

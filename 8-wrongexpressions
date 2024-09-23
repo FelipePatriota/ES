@@ -1,0 +1,26 @@
+-- my_const 
+-- Tipo: Erro de Tipo (não definido)
+
+-- my_const True
+-- Tipo: Erro de Tipo (se my_const não estiver definido)
+
+-- append 
+-- Tipo: Erro de Tipo (não definido)
+
+-- append []
+-- Tipo: Erro de Tipo (se append não estiver definido)
+
+-- append [True, False]
+-- Tipo: Erro de Tipo (se append não estiver definido)
+
+-- append [3] ['a', 'b']
+-- Tipo: Erro de Tipo (se append não estiver definido)
+
+-- append "squid" ['a', 'b']
+-- Tipo: Erro de Tipo (se append não estiver definido)
+
+-- my_map
+-- Tipo: Erro de Tipo (não definido)
+
+-- my_map (my_const True)
+-- Tipo: Erro de Tipo (se my_map ou my_const não estiverem definidos)
